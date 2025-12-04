@@ -1,40 +1,40 @@
 ## Hi there I'm Kaylene Martins 👋
 
-##Currently learning: Data Engineering
+## Currently learning: Data Engineering
 🌱Passion: Data Analytics
 💡Passionate about: Turning raw data into meaningful insights, Building dashboards and visualizations, SQL querying and data modeling, Automating workflows and improving decision-making .
  
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Languages:Python, JavaScript, C#
 Frontend: HTML, CSS
 Database: SQL, SQLite, Firebase
 
 
-##⭐ Featured Projects
+## ⭐ Featured Projects
 
 
-##📚 ReadSmart SA
+## 📚 ReadSmart SA
 
 Tech: React, NLP, TTS
 An AI-driven reading companion for early learners in South Africa. Highlights difficult words, offers pronunciation via text-to-speech, generates comprehension quizzes using NLP, and tracks learner performance over time for progress insights.
-🔗 Live App:[trick-high-79853905.figma.site] (trick-high-79853905.figma.site)
+🔗 Live App: ([trick-high-79853905.figma.site](https://trick-high-79853905.figma.site/)
 
 
-##✍️ AI Creative Writing Assistant
+## ✍️ AI Creative Writing Assistant
 
 Tech: Next.js, AI/NLP
 An AI-powered generative content tool for creating original poems and short stories. Demonstrates prompt engineering and AI-assisted creativity.
-🔗 Live App: (assistant-one-livid.vercel.app)
+🔗 Live App: [assistant-one-livid.vercel.app](https://ai-creative-writing-assistant.vercel.app/)
 
-##📄 AI Resume Builder
+## 📄 AI Resume Builder
 
 Tech: Next.js, AI/NLP
 Generates customized, ATS-friendly resumes using user input, industry keywords, and job descriptions. Offers multiple templates, content suggestions, and feedback-driven improvements for optimized professional resumes.
-🔗 Live App: resumebuilder-rho-umber.vercel.app
+🔗 Live App: [resumebuilder-rho-umber.vercel.app](https://resumebuilder-rho-umber.vercel.app/)
 
 
 
-##📫 Contact Me
+## 📫 Contact Me
 
 📧 Email:[kaylenemarins0806@gmail.com](kaylenemarins0806@gmail.com)
 
