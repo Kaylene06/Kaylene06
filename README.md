@@ -17,7 +17,8 @@ Database: SQL, SQLite, Firebase
 
 Tech: React, NLP, TTS
 An AI-driven reading companion for early learners in South Africa. Highlights difficult words, offers pronunciation via text-to-speech, generates comprehension quizzes using NLP, and tracks learner performance over time for progress insights.
-🔗 Live App: trick-high-79853905.figma.site
+🔗 Live App:[trick-high-79853905.figma.site] (trick-high-79853905.figma.site)
+
 
 ##✍️ AI Creative Writing Assistant
 
